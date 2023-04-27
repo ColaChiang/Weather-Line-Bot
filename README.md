@@ -1,16 +1,17 @@
 # 建置操作步驟
+
 ## 安裝設定
-### 1. 下載Git  
+### 1. 下載Git <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="25px" height="25px">  
 https://git-scm.com/downloads  
 
 <img src="https://user-images.githubusercontent.com/73519160/234651184-73739df1-aa2d-49bd-b4db-9a67d7a11437.png" width="50%" height="50%">  
 
-### 2. 創建一個Github帳號  
+### 2. 創建一個Github帳號 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" width="25px" height="25px">  
 https://github.com/  
 
 <img src="https://user-images.githubusercontent.com/73519160/234621680-8999deee-93b8-4497-b84a-3fba536209e9.png" width="50%" height="50%">  
 
-### 3. 下載Github Desktop  
+### 3. 下載Github Desktop <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" width="30px" height="30px"> 
 https://desktop.github.com/  
 
 <img src="https://user-images.githubusercontent.com/73519160/234650501-87fb94fa-c05b-4167-87d4-e85c756682d8.png" width="50%" height="50%">  
@@ -46,17 +47,19 @@ Choose a license(可忽略)：程式碼授權條款
 ---
 
 ### 設定個人資料
-#### 使用Git指令 
+#### <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="25px" height="25px"> 使用Git指令 
     git config --global user.name "xxxxx"  
 ###
     git config --global user.email xxxxxxx@example.com  
     
-#### 使用Github Desktop(若安裝時有登入則不需設定)  
-<img src="https://user-images.githubusercontent.com/73519160/234653262-db1e8915-2984-46c7-918e-40c02162ea2a.png" width="50%" height="50%">
-<img src="https://user-images.githubusercontent.com/73519160/234653576-be74c2b1-8c84-4c48-ae22-45ac9347ae4a.png" width="50%" height="50%"> 
+#### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" width="30px" height="30px"> 使用Github Desktop(若安裝時有登入則不需設定)  
+✔點選File的Options  
+<img src="https://user-images.githubusercontent.com/73519160/234926594-b8d034ea-5305-4575-8d3d-7a5cd72fd690.png" width="50%" height="50%">  
+✔點選Sign in  
+<img src="https://user-images.githubusercontent.com/73519160/234926325-14b0136d-69f3-41be-ba20-5ef115b795f9.png" width="50%" height="50%"> 
 
 ### 查看個人資料
-#### 使用Git指令  
+#### <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="25px" height="25px"> 使用Git指令  
 
     git config user.name  
 ###
@@ -75,12 +78,15 @@ Choose a license(可忽略)：程式碼授權條款
 
 ### 從遠端repo複製資料  
   
-#### 使用Github Desktop
-
+#### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" width="30px" height="30px"> 使用Github Desktop  
+✔點選Open With Github Desktop    
 <img src="https://user-images.githubusercontent.com/73519160/234901083-bbdd5bb1-4150-47bd-b130-163aa0590445.png" width="50%" height="50%">  
+✔選擇要複製的路徑，點選clone  
+<img src="https://user-images.githubusercontent.com/73519160/234925362-e2122cc8-cb21-4582-a39b-e164717cac2d.png" width="50%" height="50%">  
 
-#### 使用Git指令  
-複製HTTP網址  
+
+#### <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="25px" height="25px"> 使用Git指令  
+✔複製HTTP網址  
 
 <img src="https://user-images.githubusercontent.com/73519160/234902038-2b255a31-30bd-42d5-b550-889865ee8e44.png" width="50%" height="50%">
 
