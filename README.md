@@ -69,21 +69,21 @@ Choose a license(可忽略)：程式碼授權條款
 <img src="https://user-images.githubusercontent.com/73519160/234643974-e82701e3-c14b-4b62-9ab6-71b29981a8de.png" width="50%" height="50%">  
 
 ### 從遠端repository複製資料  
-  
+ 
+#### <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="25px" height="25px"> 使用Git指令  
+✔複製HTTP網址  
+
+<img src="https://user-images.githubusercontent.com/73519160/234902038-2b255a31-30bd-42d5-b550-889865ee8e44.png" width="50%" height="50%">
+✔在cmd切換到要存放的目錄後輸入下面的指令  
+
+    git clone 貼上HTTP網址  
+    
 #### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" width="30px" height="30px"> 使用Github Desktop  
 ✔點選Open With Github Desktop    
 <img src="https://user-images.githubusercontent.com/73519160/234901083-bbdd5bb1-4150-47bd-b130-163aa0590445.png" width="50%" height="50%">  
 ✔選擇要複製的路徑，點選clone  
 <img src="https://user-images.githubusercontent.com/73519160/234925362-e2122cc8-cb21-4582-a39b-e164717cac2d.png" width="50%" height="50%">  
 
-
-#### <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="25px" height="25px"> 使用Git指令  
-✔複製HTTP網址  
-
-<img src="https://user-images.githubusercontent.com/73519160/234902038-2b255a31-30bd-42d5-b550-889865ee8e44.png" width="50%" height="50%">
-
-    git clone 貼上HTTP網址  
-    
     
 ---
 
