@@ -29,7 +29,7 @@ https://desktop.github.com/
     git config --global user.email xxxxxxx@example.com  
     
 ### 查看個人資料
-#### 使用git指令  
+#### 使用Git指令  
 
     git config user.name  
 ###
@@ -49,9 +49,17 @@ https://desktop.github.com/
 
     git pull
 
-### 從遠端repo複製資料
+### 從遠端repo複製資料  
+  
+#### 使用Github Desktop
 
-    git clone
+<img src="https://user-images.githubusercontent.com/73519160/234901083-bbdd5bb1-4150-47bd-b130-163aa0590445.png" width="50%" height="50%">  
+
+#### 使用Git指令  
+複製HTTP網址
+<img src="https://user-images.githubusercontent.com/73519160/234902038-2b255a31-30bd-42d5-b550-889865ee8e44.png" width="50%" height="50%">
+
+    git clone 貼上HTTP網址
 
 ### 顯示修改檔案清單 -s：僅會顯示已修改的檔案名稱
 
