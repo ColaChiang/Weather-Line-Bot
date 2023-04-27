@@ -68,15 +68,7 @@ Choose a license(可忽略)：程式碼授權條款
 
 <img src="https://user-images.githubusercontent.com/73519160/234643974-e82701e3-c14b-4b62-9ab6-71b29981a8de.png" width="50%" height="50%">  
 
-### (initial)初始化repo
-
-    git init
-
-### 從遠端repo拉取回本地（同步）
-
-    git pull
-
-### 從遠端repo複製資料  
+### 從遠端repository複製資料  
   
 #### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" width="30px" height="30px"> 使用Github Desktop  
 ✔點選Open With Github Desktop    
@@ -90,7 +82,19 @@ Choose a license(可忽略)：程式碼授權條款
 
 <img src="https://user-images.githubusercontent.com/73519160/234902038-2b255a31-30bd-42d5-b550-889865ee8e44.png" width="50%" height="50%">
 
-    git clone 貼上HTTP網址
+    git clone 貼上HTTP網址  
+    
+    
+---
+
+### (initial)初始化repo
+
+    git init
+
+### 從遠端repo拉取回本地（同步）
+
+    git pull
+
 
 ### 顯示修改檔案清單 -s：僅會顯示已修改的檔案名稱
 
