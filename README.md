@@ -13,6 +13,8 @@ https://github.com/
 https://desktop.github.com/  
 
 <img src="https://user-images.githubusercontent.com/73519160/234650501-87fb94fa-c05b-4167-87d4-e85c756682d8.png" width="50%" height="50%"> 
+<img src="https://user-images.githubusercontent.com/73519160/234833977-5e9470a9-c9e2-40d1-bb52-32cb0b312b6d.png" width="50%" height="50%"> 
+<img src="https://user-images.githubusercontent.com/73519160/234835476-dbcb8175-95ba-4b91-bdf8-abb649be3f4d.png" width="50%" height="50%"> 
 
 ### Github Repository：存放 project 的地方
 #### 建立repo  
@@ -51,7 +53,7 @@ https://desktop.github.com/
 
     git clone
 
-###     顯示修改檔案清單 -s：僅會顯示已修改的檔案名稱
+### 顯示修改檔案清單 -s：僅會顯示已修改的檔案名稱
 
     git status
 
